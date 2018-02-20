@@ -1,0 +1,158 @@
+
+
+body {
+	background-image: url(images/bg.gif);
+	background-repeat: repeat-x;
+	background-color: #1693a0;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+.nav a {
+	display: block;
+	height: 16.5px;
+	width: 150px;
+	border: thin;
+	border-bottom: 0px;
+	border-style: solid;
+	padding: 15px;
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+
+}
+
+.nav {
+	text-align: center;
+	background-color: #11a7b8;
+	height: 48px;
+	width: 912px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+
+}
+
+.nav-container {
+	margin: 0 auto;
+	width: 1024px;
+	background-color: #11a7b8;
+
+}
+
+#logo-header-link {
+	border: none;
+}
+
+#header {
+	height: 153px;
+	width: 1024px;
+	margin: 0 auto;
+	background-color: #b4bcc4;
+
+}
+
+.band h3 {
+	color: #11a6b8;
+}
+.band {
+	margin-bottom: 10px;
+	background-color: #362a22;
+	width: 1024px;
+	height: 31px;
+	text-align: center;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #11a7b8;
+}
+
+main {
+	width: 1024px;
+	background-color: #11a7b8;
+	margin: 0 auto;
+}
+
+
+
+
+.readmore, .readless {
+  text-align: right;
+  margin-top: 30px;
+}
+.readmore a, .readless a {
+  color: #043049;
+  font-weight: 600;
+}
+
+.hide {
+  display: none;
+}
+
+
+#advert {
+	background-image: url(images/optic_advert.jpg);
+	height: 234px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+
+}
+
+
+#text02 {
+	background-image: url(images/textbg.png);
+	height: 50px;
+	width: 964px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+
+
+}
+
+.text {
+	margin-top: 10px;
+	background-color: #dccfc6;
+	height: auto;
+	width: 964px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+
+
+}
+
+
+
+
+footer {
+	background-color: #362a22;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	width: 1024px;
+	height: 54px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: #c4ae9d;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	padding-top: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+footer em {
+	color: #fff;
+}
+
+.nav a:link {color: #fff; text-decoration: none;}
+.nav a:visited {color: #CCC; text-decoration: none;}
+.nav a:hover {color: #666; background-color: #CCC; font-style: italic;}
+.nav a:active {color: #fff;}
+
+h3 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
